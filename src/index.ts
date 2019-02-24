@@ -1,3 +1,3 @@
-export * from './BackBone'
-export * from './BBConnection'
-export * from './RequestTranslator'
+export * from './BackBone';
+export * from './BBConnection';
+export * from './RequestTranslator';

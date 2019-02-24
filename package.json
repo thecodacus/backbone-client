@@ -3,7 +3,7 @@
   "version": "1.0.3",
   "description": "Backbone client for backbone server",
   "types": "dist/index.d.ts",
-  "main": "dist/index.js",
+  "main": "dist/index",
   "scripts": {
     "build": "rm -rf ./dist/* && tsc"
   },
@@ -20,5 +20,10 @@
   "peerDependencies": {
     "rxjs": "^6.4.0",
     "socket.io-client": "^2.2.0"
+  },
+  "devDependencies": {
+    "@types/socket.io-client": "^1.4.32",
+    "tslint": "^5.13.0",
+    "typescript": "^3.3.3333"
   }
 }
