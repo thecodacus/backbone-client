@@ -1,9 +1,9 @@
 {
   "name": "backbone-client",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Backbone client for backbone server",
   "types": "dist/index.d.ts",
-  "main": "dist/index",
+  "main": "dist/index.js",
   "scripts": {
     "build": "rm -rf ./dist/* && tsc"
   },
