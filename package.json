@@ -11,7 +11,7 @@
     "type": "git",
     "url": "git+https://github.com/thecodacus/backbone-client.git"
   },
-  "author": "thecodacus@gmail.com",
+  "author": "Anirban Kar thecodacus@gmail.com",
   "license": "SEE LICENSE IN https://github.com/thecodacus/backbone-client/LICENSE",
   "bugs": {
     "url": "https://github.com/thecodacus/backbone-client/issues"
