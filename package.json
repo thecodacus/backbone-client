@@ -1,6 +1,6 @@
 {
   "name": "backbone-client",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Backbone client for backbone server",
   "types": "dist/index.d.ts",
   "main": "dist/index",
