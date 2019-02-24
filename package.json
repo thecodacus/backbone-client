@@ -20,5 +20,5 @@
   "peerDependencies": {
     "rxjs": "^6.4.0",
     "socket.io-client": "^2.2.0"
-  },
+  }
 }
