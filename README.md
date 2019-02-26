@@ -1,10 +1,12 @@
 # Welcome to Backbone !
-
+[![Build Status](https://travis-ci.com/thecodacus/backbone-client.svg?branch=master)](https://travis-ci.com/thecodacus/backbone-client)
+![GitHub](https://img.shields.io/github/license/thecodacus/backbone-client.svg?style=popout)
+![GitHub package.json version](https://img.shields.io/github/package-json/v/thecodacus/backbone-client.svg?style=popout)
 ### Description
 
 Backbone provide realtime database integration,
 ## Prerequisites
-- Backbone server should up and running . Get Backbone server [here](https://github.com/thecodacus/backbone-server) 
+- Backbone server should up and running . Get Backbone server [here](https://github.com/thecodacus/backbone-server)
 ## Installing
 Import Backbone client
 ```
